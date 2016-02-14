@@ -1,0 +1,7 @@
+accounts:
+    bob:
+        login: 123456
+        password: 1234qwerty
+
+notifications:
+    bob: # reqister token at https://mashlol.github.io/notify/
